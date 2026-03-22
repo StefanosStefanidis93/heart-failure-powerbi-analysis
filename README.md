@@ -8,6 +8,34 @@ End-to-end Business Intelligence solution built in **Microsoft Power BI** for an
 
 ---
 
+## Dashboards
+
+### KPI Overview
+![KPI Overview](ac4de58b-7e61-44d8-9c93-2fc1b5dea0e8.jpg)
+
+### Correlation Analysis Heatmap
+![Correlation Analysis](42eebdbe-0b19-42ac-9b00-5f450d11a781.jpg)
+
+### Scatter Plots by Sex and Age
+![Scatter Plots](bcd53522-6c1a-4c9a-9af4-ea78d0ff0f40.jpg)
+
+### Age Group Comparisons
+![Age Group Comparisons](8f845907-6bb4-4c3d-a3bc-ca24f48c6f9e.jpg)
+
+### Heart Failure Prediction Dashboard
+![Heart Failure Prediction](e05517c2-1a30-401f-a7e2-76a58fe193b6.jpg)
+
+### Population Overview
+![Population Overview](2c3dfcbc-1f41-45bd-a074-48caa6460e2c.jpg)
+
+### Gender & Age Comparison
+![Gender & Age Comparison](7c2ba19a-5cca-4cdb-b586-6767ec71662b.jpg)
+
+### Multivariate Insights
+![Multivariate Insights](63db73ef-1591-44f3-9cdb-d5e865eb9aad.jpg)
+
+---
+
 ## Dataset
 
 - **Source:** [Heart Failure Prediction Dataset — Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
@@ -36,24 +64,6 @@ End-to-end Business Intelligence solution built in **Microsoft Power BI** for an
 - Age: r = **+0.28**
 
 **Highest-risk demographic:** Males aged 60+ (heart disease rate: 82%)
-
----
-
-## Dashboards
-
-The report includes a **Home Page Navigation** menu linking to 9 interactive dashboards:
-
-| Dashboard | Description |
-|-----------|-------------|
-| **KPI Overview** | Survival rate, avg age, mortality risk, segment breakdowns by sex |
-| **Correlation Matrix (Heatmap)** | Pearson correlation between all clinical variables via DAX CROSSJOIN |
-| **Scatter Plots with Predictive Zones** | Age vs MaxHR, Cholesterol, RestingBP, Oldpeak — split by sex with trend lines |
-| **Age Group Comparisons** | Clustered bar charts comparing heart disease prevalence across age groups |
-| **Heart Failure Prediction** | Main drillthrough dashboard — survivors vs non-survivors with full KPIs |
-| **Population Overview** | Demographic breakdown: sex, age group, blood pressure bucket, Exercise Angina |
-| **Gender & Age Comparison** | Survival and disease rates across all age-sex combinations |
-| **Multivariate Insights** | Combined heatmap, clustering and KPI view for multivariate analysis |
-| **Hospital Dashboard** | Operational-level patient metrics |
 
 ---
 
